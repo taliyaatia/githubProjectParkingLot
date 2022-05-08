@@ -1,0 +1,16 @@
+C:\Users\Taliya Atia\source\repos\ParkingLot\ParkingLot\bin\Debug\netcoreapp3.1\ParkingLot Project.exe
+C:\Users\Taliya Atia\source\repos\ParkingLot\ParkingLot\bin\Debug\netcoreapp3.1\ParkingLot Project.deps.json
+C:\Users\Taliya Atia\source\repos\ParkingLot\ParkingLot\bin\Debug\netcoreapp3.1\ParkingLot Project.runtimeconfig.json
+C:\Users\Taliya Atia\source\repos\ParkingLot\ParkingLot\bin\Debug\netcoreapp3.1\ParkingLot Project.runtimeconfig.dev.json
+C:\Users\Taliya Atia\source\repos\ParkingLot\ParkingLot\bin\Debug\netcoreapp3.1\ParkingLot Project.dll
+C:\Users\Taliya Atia\source\repos\ParkingLot\ParkingLot\bin\Debug\netcoreapp3.1\ParkingLot Project.pdb
+C:\Users\Taliya Atia\source\repos\ParkingLot\ParkingLot\obj\Debug\netcoreapp3.1\ParkingLot Project.csproj.AssemblyReference.cache
+C:\Users\Taliya Atia\source\repos\ParkingLot\ParkingLot\obj\Debug\netcoreapp3.1\ParkingLot.Form1.resources
+C:\Users\Taliya Atia\source\repos\ParkingLot\ParkingLot\obj\Debug\netcoreapp3.1\ParkingLot Project.csproj.GenerateResource.cache
+C:\Users\Taliya Atia\source\repos\ParkingLot\ParkingLot\obj\Debug\netcoreapp3.1\ParkingLot Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Taliya Atia\source\repos\ParkingLot\ParkingLot\obj\Debug\netcoreapp3.1\ParkingLot Project.AssemblyInfoInputs.cache
+C:\Users\Taliya Atia\source\repos\ParkingLot\ParkingLot\obj\Debug\netcoreapp3.1\ParkingLot Project.AssemblyInfo.cs
+C:\Users\Taliya Atia\source\repos\ParkingLot\ParkingLot\obj\Debug\netcoreapp3.1\ParkingLot Project.csproj.CoreCompileInputs.cache
+C:\Users\Taliya Atia\source\repos\ParkingLot\ParkingLot\obj\Debug\netcoreapp3.1\ParkingLot Project.dll
+C:\Users\Taliya Atia\source\repos\ParkingLot\ParkingLot\obj\Debug\netcoreapp3.1\ParkingLot Project.pdb
+C:\Users\Taliya Atia\source\repos\ParkingLot\ParkingLot\obj\Debug\netcoreapp3.1\ParkingLot Project.genruntimeconfig.cache
